@@ -1,3 +1,9 @@
+---
+id: three-principles
+title: Three Principles
+hide_title: true
+---
+
 # Three Principles
 
 Redux can be described in three fundamental principles:
